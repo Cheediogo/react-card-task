@@ -598,6 +598,6 @@ const AllGiftCards = [
         },
       ];
       
-    
+
 
 export default AllGiftCards
