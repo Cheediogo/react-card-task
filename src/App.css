@@ -1,0 +1,25 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+ 
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: #000 !important;
+}
+
+
+.card {
+  height: 12rem;
+  background-color: #ffa07a !important;
+  box-shadow: 2px 2px 2px 1px #141212;
+  /* box-shadow: 0 30px 40px 10px #888888; */
+}
+
+.card-title {
+  color: #800000;
+}
+
